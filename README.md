@@ -1,3 +1,3 @@
 # JustRun
 
-## a design to be updated.
+## A design to be updated.
